@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GenerarArchivoDocker": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
